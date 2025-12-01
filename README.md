@@ -102,7 +102,7 @@ jupyter notebook notebooks/data_cleaning.ipynb
 ## 👤 Author
 
 Tracy Ouma  
-Community Health Education Graduate | Data Analysis Enthusiast
+Community Health Education Graduate | Data Analyst
 
 📧 t.oumah2016@gmail.com  
 🔗 https://www.linkedin.com/in/tracy-ouma-925115271/  
